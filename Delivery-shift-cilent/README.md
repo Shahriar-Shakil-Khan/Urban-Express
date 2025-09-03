@@ -1,12 +1,38 @@
-# React + Vite
+# UrbanExpress — Parcel Delivery App (MERN)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Zero fluff, all speed. **UrbanExpress** is a full-stack MERN app for booking, assigning, tracking, and delivering parcels with rider + admin workflows, payments, and real-time status updates.
 
-Currently, two official plugins are available:
+![Node](https://img.shields.io/badge/Node-18%2B-339933?logo=node.js&logoColor=white)
+![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=222)
+![Express](https://img.shields.io/badge/Express-4-black?logo=express)
+![MongoDB](https://img.shields.io/badge/MongoDB-6%2B-47A248?logo=mongodb&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-informational)
+![Status](https://img.shields.io/badge/Status-WIP-yellow)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🚀 Features (what actually matters)
+- **Auth**: JWT + refresh tokens, email/password; roles: `user`, `rider`, `admin`.
+- **Parcel Lifecycle**: create → price estimate → assign rider → pickup → in-transit → delivered/cancelled.
+- **Live Tracking**: status updates + timestamps; optional location pings.
+- **Payments**: Stripe checkout, webhooks, receipts.
+- **Dashboards**:
+  - User: my parcels, payments, support.
+  - Rider: assigned jobs, daily route, earnings.
+  - Admin: users, riders, parcel ops, payouts, analytics.
+- **Notifications**: email updates (booked, assigned, delivered), optional SMS hook.
+- **Clean Ops**: activity logs, audit fields, soft deletes.
+- **Production-ready vibes**: env-driven config, rate-limit, CORS, Helmet, request validation.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧱 Tech Stack
+- **Frontend**: React 18, Vite, React Router, TanStack Query, TailwindCSS, shadcn/ui, Axios.
+- **Backend**: Node.js, Express, Mongoose, Zod (validation), Passport/JWT (or custom), Stripe SDK.
+- **DB**: MongoDB + indexes for hot queries.
+- **Tooling**: TypeScript (recommended), ESLint, Prettier, Husky + lint-staged.
+- **Optional**: Socket.io (live events), Cloudinary/S3 (proof of delivery).
+
+---
+
+## 📁 Monorepo Structure
