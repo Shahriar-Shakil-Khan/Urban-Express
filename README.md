@@ -36,3 +36,58 @@
 ---
 
 ## 📁 Monorepo Structure
+### **Screenshot**
+
+- **Login Page**
+  ![Login Page](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/login.png)
+
+- **Registration**
+  ![Registration](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Registration.png)
+
+- **User Home**
+  ![User Home](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/userHome.png)
+
+- **Profile**
+  ![Profile](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/profile.png)
+
+- **Admin Home**
+  ![Admin Home](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Admin_Home.png)
+
+- **Admin Make Admin**
+  ![Admin Make Admin](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Admin%20make%20Admin.png)
+
+- **Admin Trace Percel**
+  ![Admin Trace Percel](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/admin%20trace%20percel.png)
+
+- **Active Rider**
+  ![Active Rider](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Active%20Rider.png)
+
+- **Assign Rider**
+  ![Assign Rider](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/AssignRider.png)
+
+- **Percel Details**
+  ![Percel Details](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Percel_details.png)
+
+- **Completed Delivered**
+  ![Completed Delivered](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/completed%20Deliverd.png)
+
+- **My Percel**
+  ![My Percel](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/My%20percel.png)
+
+- **Mongo Database**
+  ![Mongo Database](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Mongo_database.png)
+
+- **Proced Payment**
+  ![Proced Payment](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Proced_payment.png)
+
+- **Payment**
+  ![Payment](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/payment.png)
+
+- **Rider Earn**
+  ![Rider Earn](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/RiderEarn.png)
+
+- **Transection**
+  ![Transection](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/Transection.png)
+
+- **Cover 64 District**
+  ![Cover 64 District](https://github.com/Shahriar-Shakil-Khan/Urban-Express/blob/9880d19c81e106bcdbcb86b2d2857c80e0a0e95d/Delivery-shift-cilent/screenshoot/cover_64_distric.png)
