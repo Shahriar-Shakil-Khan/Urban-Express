@@ -1,6 +1,6 @@
 # UrbanExpress — Parcel Delivery App (MERN)
 
-> Zero fluff, all speed. **UrbanExpress** is a full-stack MERN app for booking, assigning, tracking, and delivering parcels with rider + admin workflows, payments, and real-time status updates.
+> UrbanExpress: a full-stack parcel-delivery platform for Bangladesh. React + Tailwind front end; Node.js/Express API with MongoDB; Stripe for payments. Supports parcel sending with rule-based pricing, role-based dashboards (user/rider/admin), admin parcel search & rider assignment, event-timeline tracking (created → paid → assigned → in-transit → delivered), rider earnings & cash-out, and a React-Leaflet map covering all 64 districts.
 
 ![Node](https://img.shields.io/badge/Node-18%2B-339933?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-18-61DAFB?logo=react&logoColor=222)
@@ -29,9 +29,8 @@
 ## 🧱 Tech Stack
 - **Frontend**: React 18, Vite, React Router, TanStack Query, TailwindCSS, shadcn/ui, Axios.
 - **Backend**: Node.js, Express, Mongoose, Zod (validation), Passport/JWT (or custom), Stripe SDK.
-- **DB**: MongoDB + indexes for hot queries.
-- **Tooling**: TypeScript (recommended), ESLint, Prettier, Husky + lint-staged.
-- **Optional**: Socket.io (live events), Cloudinary/S3 (proof of delivery).
+- **DB**: MongoDB .
+
 
 ---
 
